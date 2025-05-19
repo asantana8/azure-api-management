@@ -77,12 +77,4 @@ Os preços praticados pelo Azure para serviços de API Management podem ser cons
 - **Inovação e Futuro**: Combine API Management com iniciativas de IoT e análise de dados para expandir as capacidades das aplicações, se preparando para o futuro da tecnologia interconectada.
 
 ---
-
-Para mais informações, consulte a [documentação oficial do Azure](https://azure.microsoft.com/documentation) {target="_blank"}.
-
-Notas
-
-Imagens: Certifique-se de substituir os links das imagens com URLs apropriadas.
-Preços Atuais: Verificar os preços atuais do Azure no site oficial, pois eles estão sujeitos a alterações periódicas.
-
 By Adriano Santana.
